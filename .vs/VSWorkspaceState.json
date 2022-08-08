@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Controllers",
-    "\\Views",
-    "\\Views\\Home",
-    "\\Views\\Shared"
+    "\\Models"
   ],
+  "SelectedNode": "\\Models\\SeedData.cs",
   "PreviewInSolutionExplorer": false
 }
