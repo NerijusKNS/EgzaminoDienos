@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using EgzaminoUzduotis.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<EgzaminoUzduotisContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("EgzaminoUzduotisContext") ?? throw new InvalidOperationException("Connection string 'EgzaminoUzduotisContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

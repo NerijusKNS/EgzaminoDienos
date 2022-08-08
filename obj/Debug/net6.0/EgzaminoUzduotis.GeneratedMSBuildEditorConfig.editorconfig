@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Egzaminai\Egzaminas-main
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Egzaminai/Egzaminas-main/Views/FilmuPortalas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXVQb3J0YWxhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Egzaminai/Egzaminas-main/Views/FilmuPortalas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXVQb3J0YWxhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Egzaminai/Egzaminas-main/Views/FilmuPortalas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXVQb3J0YWxhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Egzaminai/Egzaminas-main/Views/FilmuPortalas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXVQb3J0YWxhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Egzaminai/Egzaminas-main/Views/FilmuPortalas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXVQb3J0YWxhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Egzaminai/Egzaminas-main/Views/Home/Filmai.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaWxtYWkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
