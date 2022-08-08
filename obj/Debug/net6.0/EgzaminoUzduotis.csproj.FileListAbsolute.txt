@@ -1,0 +1,52 @@
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\bin\Debug\net6.0\appsettings.Development.json
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\bin\Debug\net6.0\appsettings.json
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\bin\Debug\net6.0\EgzaminoUzduotis.staticwebassets.runtime.json
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\bin\Debug\net6.0\EgzaminoUzduotis.exe
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\bin\Debug\net6.0\EgzaminoUzduotis.deps.json
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\bin\Debug\net6.0\EgzaminoUzduotis.runtimeconfig.json
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\bin\Debug\net6.0\EgzaminoUzduotis.dll
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\bin\Debug\net6.0\EgzaminoUzduotis.pdb
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.csproj.AssemblyReference.cache
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.AssemblyInfoInputs.cache
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.AssemblyInfo.cs
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.csproj.CoreCompileInputs.cache
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.MvcApplicationPartsAssemblyInfo.cache
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.RazorAssemblyInfo.cache
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.RazorAssemblyInfo.cs
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\staticwebassets.build.json
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\staticwebassets.development.json
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\scopedcss\bundle\EgzaminoUzduotis.styles.css
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\scopedcss\projectbundle\EgzaminoUzduotis.bundle.scp.css
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.dll
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\refint\EgzaminoUzduotis.dll
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.pdb
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\EgzaminoUzduotis.genruntimeconfig.cache
+F:\Mokslam\Egzamino Užduotis\EgzaminoUzduotis\obj\Debug\net6.0\ref\EgzaminoUzduotis.dll
+D:\Egzaminai\Egzaminas-main\bin\Debug\net6.0\appsettings.Development.json
+D:\Egzaminai\Egzaminas-main\bin\Debug\net6.0\appsettings.json
+D:\Egzaminai\Egzaminas-main\bin\Debug\net6.0\EgzaminoUzduotis.staticwebassets.runtime.json
+D:\Egzaminai\Egzaminas-main\bin\Debug\net6.0\EgzaminoUzduotis.exe
+D:\Egzaminai\Egzaminas-main\bin\Debug\net6.0\EgzaminoUzduotis.deps.json
+D:\Egzaminai\Egzaminas-main\bin\Debug\net6.0\EgzaminoUzduotis.runtimeconfig.json
+D:\Egzaminai\Egzaminas-main\bin\Debug\net6.0\EgzaminoUzduotis.dll
+D:\Egzaminai\Egzaminas-main\bin\Debug\net6.0\EgzaminoUzduotis.pdb
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.csproj.AssemblyReference.cache
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.AssemblyInfoInputs.cache
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.AssemblyInfo.cs
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.csproj.CoreCompileInputs.cache
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.MvcApplicationPartsAssemblyInfo.cache
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.RazorAssemblyInfo.cache
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.RazorAssemblyInfo.cs
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\staticwebassets.build.json
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\staticwebassets.development.json
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\scopedcss\bundle\EgzaminoUzduotis.styles.css
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\scopedcss\projectbundle\EgzaminoUzduotis.bundle.scp.css
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.dll
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\refint\EgzaminoUzduotis.dll
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.pdb
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\EgzaminoUzduotis.genruntimeconfig.cache
+D:\Egzaminai\Egzaminas-main\obj\Debug\net6.0\ref\EgzaminoUzduotis.dll
